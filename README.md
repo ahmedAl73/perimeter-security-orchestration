@@ -25,13 +25,6 @@ The primary goal of this project is to design and enforce perimeter security con
 
 ---
 
-## Implementation
-Firewall rules were implemented using `firewall-cmd` to define trusted services and ports. The active firewall zone was configured to allow required services while denying all other unsolicited inbound traffic. Rules were tested in both runtime and permanent configurations to ensure persistence.
-
-Configuration commands and rule definitions are documented in the `/configs` directory.
-
----
-
 ## Validation & Verification
 System behavior was validated using multiple verification steps:
 - Active firewall rules were inspected to confirm correct configuration
