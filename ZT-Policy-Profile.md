@@ -33,6 +33,8 @@ The Policy Engine won't let someone in if their device isn't encrypted or comple
 **Target Resource:** HR Employee PII Database  
 **Organization:** Golden State Water Treatment Facility  
 
+| Policy Requirement (Signal) | Condition to be Met by User | Action if Condition is Met |
+|------------------------------|-----------------------------|----------------------------|
 | User Identity | Must authenticate using MFA and have an active HR role | Grant Access |
 | Device Posture | Device must be company-managed, encrypted, and fully patched | Grant Access |
 | Network Context | Connection must originate within the U.S. using approved secure VPN | Grant Access |
