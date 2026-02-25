@@ -48,6 +48,6 @@ Project: Lab 6 - Zero Trust Policy
 
 Filename: ZT-Policy-Profile.md  
 
-Commit Message: Completed ZT Policy Profile defining PE, PA, PEP and HR PII Zero Trust enforcement - https://github.com/ahmedAI73/perimeter-security-orchestration
+Commit Message: Completed ZT Policy Profile defining PE, PA, PEP and HR PII Zero Trust enforcement - [https://github.com/ahmedAI73/perimeter-security-orchestration](https://github.com/ahmedAl73/perimeter-security-orchestration/blob/main/ZT-Policy-Profile.md)
 
 Due Date: March 2, 2026  
