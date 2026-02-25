@@ -20,7 +20,7 @@ The Policy Enforcement Point (PEP) is the gatekeeper that keeps the resource saf
 
 ## 2. Core Principle Application
 
-### Chosen Principle: [Write the principle you choose]
+### Chosen Principle: Verify Explicitly
 
 The principle of Verify Explicitly says that every request for access must be checked against several security signals before access is given. You should never trust someone just because they are on your network or have logged in before.
 The Policy Engine makes sure that this rule is followed at the Golden State Water Treatment Facility when an HR employee tries to get to the Employee PII Database. The Policy Engine looks at the user's role, the security of the device, and where the request is coming from on the network.
